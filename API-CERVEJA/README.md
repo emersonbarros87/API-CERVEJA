@@ -1,6 +1,7 @@
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2
+<h2>API REST de gerenciamento de estoques de cerveja.</h2
 
-API REST para o gerenciamento de estoques de cerveja. Desenvolver testes unitários para validar o  sistema de gerenciamento de estoques de cerveja.
+API REST para o gerenciamento de estoques de cerveja. 
+Desenvolver testes unitários para validar o  sistema de gerenciamento de estoques de cerveja.
 
 
 
